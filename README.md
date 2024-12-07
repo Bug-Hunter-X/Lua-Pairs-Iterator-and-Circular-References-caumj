@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Lua programming involving the `pairs` iterator and tables with circular references.  The `bug.lua` file showcases the problem, leading to an infinite loop. The solution, provided in `bugSolution.lua`, illustrates how to handle such situations safely and prevent infinite recursion.
